@@ -1,0 +1,230 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/siddi/vlsi/mylib
+Cconf_gates
+egates_struc
+agates_struc_arch
+DEx4 gate 6 hxor_e 0 22 2Nf4oiz;0Ql8<o47DzlK:1
+DAx4 work 11 gates_struc 16 gates_struc_arch 22 CKWeMS138XWckO1D>lo5D2
+Z0 DEx4 work 11 gates_struc 0 22 JnX3?H[U3_Ri<i4cz>bG^3
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+w1555435509
+Z3 dC:/Users/siddi/vlsi/homework/homework9
+8C:\Users\siddi\vlsi\homework\homework9\conf_file.vhd
+FC:\Users\siddi\vlsi\homework\homework9\conf_file.vhd
+l0
+L5
+VWKUkY=ZXH3Nhme17UaHi@2
+!s100 IG=iYITPaZ3FFMc]9gfI32
+Z4 OP;C;10.4a;61
+32
+Z5 !s110 1555441935
+!i10b 1
+Z6 !s108 1555441935.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\siddi\vlsi\homework\homework9\conf_file.vhd|
+!s107 C:\Users\siddi\vlsi\homework\homework9\conf_file.vhd|
+!i113 1
+Z7 o-work work -2002 -explicit -O0
+Z8 tExplicit 1
+Efulladder
+Z9 w1555444737
+R1
+R2
+R3
+Z10 8C:/Users/siddi/vlsi/homework/homework9/fullader1.vhd
+Z11 FC:/Users/siddi/vlsi/homework/homework9/fullader1.vhd
+l0
+L5
+V6eIdSI9S0_F@@;C?Dae;;0
+!s100 >ch`HC5?bd8PbI[mWID@m0
+R4
+32
+Z12 !s110 1555444744
+!i10b 1
+Z13 !s108 1555444743.000000
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/siddi/vlsi/homework/homework9/fullader1.vhd|
+Z15 !s107 C:/Users/siddi/vlsi/homework/homework9/fullader1.vhd|
+!i113 1
+R7
+R8
+Afulladder_arch
+Z16 DEx4 work 8 my_gates 0 22 ZaV:Q;hFdaNFUeLl1dBeh3
+R1
+R2
+Z17 DEx4 work 9 fulladder 0 22 6eIdSI9S0_F@@;C?Dae;;0
+l33
+L10
+Vf>]1W]L0e=>FQJkbjzS2:1
+!s100 V9<hK=S<12;Be2:U9Mh2c2
+R4
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 1
+R7
+R8
+Egates_struc
+w1555438251
+R1
+R2
+R3
+Z18 8C:\Users\siddi\vlsi\homework\homework9\hw9_1.vhd
+Z19 FC:\Users\siddi\vlsi\homework\homework9\hw9_1.vhd
+l0
+L5
+VJnX3?H[U3_Ri<i4cz>bG^3
+!s100 ]8U4TeU<eM<VI[[k=;LO_3
+R4
+32
+R5
+!i10b 1
+!s108 1555441934.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\siddi\vlsi\homework\homework9\hw9_1.vhd|
+Z21 !s107 C:\Users\siddi\vlsi\homework\homework9\hw9_1.vhd|
+!i113 1
+R7
+R8
+Agates_struc_arch
+R1
+R2
+R0
+l16
+L10
+VCKWeMS138XWckO1D>lo5D2
+!s100 21m74PA8`dYL1OF6^=WlE2
+R4
+32
+!s110 1555438139
+!i10b 1
+!s108 1555438139.000000
+R20
+R21
+!i113 1
+R7
+R8
+w1555438137
+Ehxor_e
+Z22 w1555378171
+R1
+R2
+R3
+Z23 8C:\Users\siddi\vlsi\mylib\xor_def.vhd
+Z24 FC:\Users\siddi\vlsi\mylib\xor_def.vhd
+l0
+L4
+V2Nf4oiz;0Ql8<o47DzlK:1
+!s100 <H^fKF<HaZzR6OUON73iA0
+R4
+32
+R5
+!i10b 1
+R6
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\siddi\vlsi\mylib\xor_def.vhd|
+Z26 !s107 C:\Users\siddi\vlsi\mylib\xor_def.vhd|
+!i113 1
+R7
+R8
+Ahxor_arch
+R1
+R2
+DEx4 work 6 hxor_e 0 22 2Nf4oiz;0Ql8<o47DzlK:1
+l12
+L11
+VIZL4cHXLHZRH;Rl8WRDPW0
+!s100 TY@`BESBg]e8E[m^U`VB20
+R4
+32
+R5
+!i10b 1
+R6
+R25
+R26
+!i113 1
+R7
+R8
+Emy_gates
+Z27 w1555443168
+R1
+R2
+R3
+Z28 8C:/Users/siddi/vlsi/homework/homework9/conf_en.vhd
+Z29 FC:/Users/siddi/vlsi/homework/homework9/conf_en.vhd
+l0
+L4
+VZaV:Q;hFdaNFUeLl1dBeh3
+!s100 Ea3BiCJZ>3_zQgThbdd^H1
+R4
+32
+Z30 !s110 1555443234
+!i10b 1
+Z31 !s108 1555443234.000000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/siddi/vlsi/homework/homework9/conf_en.vhd|
+Z33 !s107 C:/Users/siddi/vlsi/homework/homework9/conf_en.vhd|
+!i113 1
+R7
+R8
+Aor_arch
+R1
+R2
+R16
+l22
+L21
+V:TTQb8ba_@i9Gied:k61Z0
+!s100 Vf:A:0jINOTAGQZ]DnTWY1
+R4
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R7
+R8
+Aand_arch
+R1
+R2
+R16
+l17
+L16
+VFJ2k]f9JTS?Y3eBh>nD[<1
+!s100 8DWjP]kT@RlYb99OgLWiJ1
+R4
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R7
+R8
+Axor_arch
+R1
+R2
+R16
+l11
+L10
+V`GC7MN`QGo:Cngl=@e[1]3
+!s100 RNEf5bklPHTWf9Wff_AVA2
+R4
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R7
+R8

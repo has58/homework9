@@ -1,0 +1,30 @@
+C:/Users/siddi/vlsi/mylib/xor_def.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\siddi\vlsi\mylib\xor_def.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity HXOR_E
+-- Compiling architecture HXOR_Arch of HXOR_E
+
+} {} {}} C:/Users/siddi/vlsi/homework/homework9/hw9_1.vhd {0 {vcom -work work -2002 -explicit -stats=none {C:\Users\siddi\vlsi\homework\homework9\hw9_1.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity gates_struc
+-- Compiling architecture gates_struc_arch of gates_struc
+-- Loading configuration conf_gates
+** Error: C:\Users\siddi\vlsi\homework\homework9\hw9_1.vhd(16): near "end": (vcom-1576) expecting BEGIN.
+
+
+} {9.0 10.0} {}} C:/Users/siddi/vlsi/homework/homework9/conf_file.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\siddi\vlsi\homework\homework9\conf_file.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling configuration conf_gates
+-- Loading entity gates_struc
+-- Loading architecture gates_struc_arch of gates_struc
+-- Loading entity HXOR_E
+
+} {} {}}

@@ -1,0 +1,16 @@
+library IEEE;
+use ieee.std_logic_1164.ALL;
+
+entity adder_4 is 
+	port( a,b: in std_logic_vector(3 downto 0);
+		cin : in std_logic;
+		sum : out std_logic_vector(3 downto 0);
+		cout : out std_logic);
+
+Architecture adder_4_arch of adder_4 is
+	component adder is
+		port (a,b,c: in std_logic;
+			sum,cout : out std_logic);
+		end component;
+	begin
+	end adder_4_arch;
